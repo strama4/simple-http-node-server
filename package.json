@@ -1,0 +1,20 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "Hello World test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strama4/simple-http-node-server.git"
+  },
+  "author": "Luke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strama4/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/strama4/simple-http-node-server#readme"
+}
